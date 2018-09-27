@@ -1,0 +1,22 @@
+{
+    "name": "evangelion-color-theme",
+    "displayName": "Evangelion Color Theme",
+    "description": "Color theme inspired by user interfaces in \"Neon Genesis Evangelion\" and \"Rebuild of Evangelion\".",
+    "version": "0.0.1",
+    "publisher": "stepney141",
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Evangelion Color Theme",
+                "uiTheme": "hc-black",
+                "path": "./themes/Evangelion Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
