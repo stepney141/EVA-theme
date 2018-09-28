@@ -1,0 +1,22 @@
+{
+    "name": "eva",
+    "displayName": "EVA",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "stepney141",
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "EVA",
+                "uiTheme": "vs-dark",
+                "path": "./themes/EVA-color-theme.json"
+            }
+        ]
+    }
+}
